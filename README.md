@@ -34,8 +34,7 @@ engine.render(scene);
 
 ## Demo
 
-[![DEMO](https://cdn.discordapp.com/attachments/1269034459794247710/1269034461199073391/2024-08-02_21-47-10.mp4?ex=66b1e3b1&is=66b09231&hm=45599e50b85fc88cb74b6cd2c86afe96530ec54c7194f4c503f7f019a681229a&))]
-
+https://www.youtube.com/watch?v=VqHeqotLLD8
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
